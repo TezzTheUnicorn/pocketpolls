@@ -59,7 +59,7 @@ exclude:
 description: >- # this means to ignore newlines until "baseurl:"
   Queer People are seldom represented within statistical studies. We would like to change that.
   This is why we focus on queer research by queer people; about our everyday lives, what makes us happy, what makes us sad ...
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "pocketpolls" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
